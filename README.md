@@ -1,5 +1,8 @@
 📧 AI-Powered Spam Classifier
 
+## 🌐 Live Demo
+Try it yourself: **[Click here to test the Spam Classifier](https://lakshcore123.github.io/spam-email-classifier/spam_classifier.html)**
+
 A machine learning-based spam detection system that classifies SMS messages as spam or ham with **98.7% accuracy**.
 
 ## ✨ Features
